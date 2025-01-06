@@ -1,4 +1,12 @@
 ## Hi there 👋
+---
+Im just a normal kid (possibly like you) who took up coding
+Im awful and I know it, but I try my best :P
+W3schools is my GOAT, tysm for helping me learn to code
+I know HTML, CSS, and a bit of PHP
+HTML is my strongest language, with CSS at a close second.
+I just started learning PHP, wish me luck (lmao)
+TY Love ya'll <3! (Platonically)
 
 <!--
 **A-Bad-Coder/A-Bad-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
